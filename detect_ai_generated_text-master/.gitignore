@@ -1,0 +1,7 @@
+
+data
+linguisticAI.csv
+linguisticHuman.csv
+.env
+chroma.log
+pkl_files
